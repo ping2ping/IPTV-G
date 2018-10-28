@@ -1,470 +1,831 @@
-#EXTM3U
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Pro7"  group-title="Unsorted",DE: Pro7
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3103.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Pro7 HD"  group-title="Unsorted",DE: Pro7 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8057.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Pro7 Maxx HD"  group-title="Unsorted",DE: Pro7 Maxx HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5179.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: RBB"  group-title="Unsorted",DE: RBB
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4421.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Romance TV HD"  group-title="Unsorted",DE: Romance TV HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4427.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: RTL"  group-title="Unsorted",DE: RTL
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3235.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: RTL 2"  group-title="Unsorted",DE: RTL 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3229.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: RTL Crime HD"  group-title="Unsorted",DE: RTL Crime HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5176.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: RTL Living HD"  group-title="Unsorted",DE: RTL Living HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5175.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: RTL Nitro HD"  group-title="Unsorted",DE: RTL Nitro HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3563.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: RTL Passion HD"  group-title="Unsorted",DE: RTL Passion HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5174.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Salzwedel"  group-title="Unsorted",DE: Salzwedel
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3575.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sat 1"  group-title="Unsorted",DE: Sat 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3560.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sat Eins Gold"  group-title="Unsorted",DE: Sat Eins Gold
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3572.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Servus TV HD"  group-title="Unsorted",DE: Servus TV HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3574.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sixx HD"  group-title="Unsorted",DE: Sixx HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3565.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Action HD"  group-title="Unsorted",DE: Sky Action HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3095.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Atlantic  1 HD"  group-title="Unsorted",DE: Sky Atlantic  1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8826.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Atlantic HD"  group-title="Unsorted",DE: Sky Atlantic HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3364.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Bundesliga HD 1"  group-title="Unsorted",DE: Sky Bundesliga HD 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3069.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Cinema  1 HD"  group-title="Unsorted",DE: Sky Cinema  1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3064.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Cinema  24 HD"  group-title="Unsorted",DE: Sky Cinema  24 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3367.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Cinema HD"  group-title="Unsorted",DE: Sky Cinema HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3096.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Comedy"  group-title="Unsorted",DE: Sky Comedy
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3362.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Emotion HD"  group-title="Unsorted",DE: Sky Emotion HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3101.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Family HD"  group-title="Unsorted",DE: Sky Family HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8071.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Hits"  group-title="Unsorted",DE: Sky Hits
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3576.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Krimi"  group-title="Unsorted",DE: Sky Krimi
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3577.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Nostalgie"  group-title="Unsorted",DE: Sky Nostalgie
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4428.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Sport Austria HD"  group-title="Unsorted",DE: Sky Sport Austria HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3356.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Sport HD 1"  group-title="Unsorted",DE: Sky Sport HD 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3068.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sky Sport News HD"  group-title="Unsorted",DE: Sky Sport News HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3070.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: 13th Street HD"  group-title="Unsorted",DE: 13th Street HD
+#EXTINF:-1,DE: 13th Street HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5299.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: 3Sat HD"  group-title="Unsorted",DE: 3Sat HD
+#EXTINF:-1,DE: 3Sat HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2221.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: A&E HD"  group-title="Unsorted",DE: A&E HD
+#EXTINF:-1,DE: A&E HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4434.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Animal Planet HD"  group-title="Unsorted",DE: Animal Planet HD
+#EXTINF:-1,DE: Animal Planet HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5169.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Anixe"  group-title="Unsorted",DE: Anixe
+#EXTINF:-1,DE: Anixe
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4418.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Arte"  group-title="Unsorted",DE: Arte
+#EXTINF:-1,DE: Arte
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3552.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Boomerang HD"  group-title="Unsorted",DE: Boomerang HD
+#EXTINF:-1,DE: Boomerang HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6395.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: BR HD"  group-title="Unsorted",DE: BR HD
+#EXTINF:-1,DE: BR HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3557.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Classica"  group-title="Unsorted",DE: Classica
+#EXTINF:-1,DE: Classica
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3556.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Comedy Central"  group-title="Unsorted",DE: Comedy Central
+#EXTINF:-1,DE: Comedy Central
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3561.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Das Erste"  group-title="Unsorted",DE: Das Erste
+#EXTINF:-1,DE: Das Erste
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4423.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Discovery HD"  group-title="Unsorted",DE: Discovery HD
+#EXTINF:-1,DE: Discovery HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3099.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Disney Channel HD"  group-title="Unsorted",DE: Disney Channel HD
+#EXTINF:-1,DE: Disney Channel HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3567.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Disney Cinemagic HD"  group-title="Unsorted",DE: Disney Cinemagic HD
+#EXTINF:-1,DE: Disney Cinemagic HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4436.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Disney Junior HD"  group-title="Unsorted",DE: Disney Junior HD
+#EXTINF:-1,DE: Disney Junior HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4437.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Disney XD HD"  group-title="Unsorted",DE: Disney XD HD
+#EXTINF:-1,DE: Disney XD HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4438.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Dmax HD"  group-title="Unsorted",DE: Dmax HD
+#EXTINF:-1,DE: Dmax HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3570.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: DW"  group-title="Unsorted",DE: DW
+#EXTINF:-1,DE: DW
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2863.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: E! Entertainement HD"  group-title="Unsorted",DE: E! Entertainement HD
+#EXTINF:-1,DE: E! Entertainement HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6392.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Eurosport 1 HD"  group-title="Unsorted",DE: Eurosport 1 HD
+#EXTINF:-1,DE: Eurosport 1 HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3066.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Fox HD"  group-title="Unsorted",DE: Fox HD
+#EXTINF:-1,DE: Fox HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3363.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Franken"  group-title="Unsorted",DE: Franken
+#EXTINF:-1,DE: Franken
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4424.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Goldstar"  group-title="Unsorted",DE: Goldstar
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5181.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Heimatkanal"  group-title="Unsorted",DE: Heimatkanal
+#EXTINF:-1,DE: Heimatkanal
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5177.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: History HD"  group-title="Unsorted",DE: History HD
+#EXTINF:-1,DE: History HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5298.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: HR"  group-title="Unsorted",DE: HR
+#EXTINF:-1,DE: HR
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4422.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Junior"  group-title="Unsorted",DE: Junior
+#EXTINF:-1,DE: Junior
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7658.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Kabel 1"  group-title="Unsorted",DE: Kabel 1
+#EXTINF:-1,DE: Kabel 1
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3185.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Kabel 1 HD"  group-title="Unsorted",DE: Kabel 1 HD
+#EXTINF:-1,DE: Kabel 1 HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6389.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Kika HD"  group-title="Unsorted",DE: Kika HD
+#EXTINF:-1,DE: Kika HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3555.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Kinowelt HD"  group-title="Unsorted",DE: Kinowelt HD
+#EXTINF:-1,DE: Kinowelt HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5825.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: MDR"  group-title="Unsorted",DE: MDR
+#EXTINF:-1,DE: MDR
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4420.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Motorvision"  group-title="Unsorted",DE: Motorvision
+#EXTINF:-1,DE: Motorvision
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4697.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Munchen TV"  group-title="Unsorted",DE: Munchen TV
+#EXTINF:-1,DE: Munchen TV
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3559.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: N-TV"  group-title="Unsorted",DE: N-TV
+#EXTINF:-1,DE: N-TV
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3564.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: N24"  group-title="Unsorted",DE: N24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3571.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Nat Geo Wild HD"  group-title="Unsorted",DE: Nat Geo Wild HD
+#EXTINF:-1,DE: Nat Geo Wild HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3098.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: National Geographic HD"  group-title="Unsorted",DE: National Geographic HD
+#EXTINF:-1,DE: National Geographic HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3578.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: NDR HD"  group-title="Unsorted",DE: NDR HD
+#EXTINF:-1,DE: NDR HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3558.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Nickelodeon Austria"  group-title="Unsorted",DE: Nickelodeon Austria
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3562.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="De: Nickelodeon HD"  group-title="Unsorted",De: Nickelodeon HD
+#EXTINF:-1,De: Nickelodeon HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6393.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: OK Magdeburg"  group-title="Unsorted",DE: OK Magdeburg
+#EXTINF:-1,DE: OK Magdeburg
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4425.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Phoenix HD"  group-title="Unsorted",DE: Phoenix HD
+#EXTINF:-1,DE: Phoenix HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3550.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Spiegel Geschichte"  group-title="Unsorted",DE: Spiegel Geschichte
+#EXTINF:-1,DE: Pro7
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3103.ts
+
+#EXTINF:-1,DE: Pro7 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8057.ts
+
+#EXTINF:-1,DE: Pro7 Maxx HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5179.ts
+
+#EXTINF:-1,DE: RBB
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4421.ts
+
+#EXTINF:-1,DE: Romance TV HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4427.ts
+
+#EXTINF:-1,DE: RTL
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3235.ts
+
+#EXTINF:-1,DE: RTL Crime HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5176.ts
+
+#EXTINF:-1,DE: RTL Living HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5175.ts
+
+#EXTINF:-1,DE: RTL Nitro HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3563.ts
+
+#EXTINF:-1,DE: RTL Passion HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5174.ts
+
+#EXTINF:-1,DE: Salzwedel
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3575.ts
+
+#EXTINF:-1,DE: Sat 1
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3560.ts
+
+#EXTINF:-1,DE: Sat Eins Gold
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3572.ts
+
+#EXTINF:-1,DE: Servus TV HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3574.ts
+
+#EXTINF:-1,DE: Sixx HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3565.ts
+
+#EXTINF:-1,DE: Sky Action HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3095.ts
+
+#EXTINF:-1,DE: Sky Atlantic HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3364.ts
+
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3069.ts
+
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3064.ts
+
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3367.ts
+
+#EXTINF:-1,DE: Sky Cinema HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3096.ts
+
+#EXTINF:-1,DE: Sky Comedy
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3362.ts
+
+#EXTINF:-1,DE: Sky Emotion HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3101.ts
+
+#EXTINF:-1,DE: Sky Family HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8071.ts
+
+#EXTINF:-1,DE: Sky Hits
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3576.ts
+
+#EXTINF:-1,DE: Sky Krimi
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3577.ts
+
+#EXTINF:-1,DE: Sky Nostalgie
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4428.ts
+
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3356.ts
+
+#EXTINF:-1,DE: Sky Sport HD 1
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3068.ts
+
+#EXTINF:-1,DE: Sky Sport News HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3070.ts
+
+#EXTINF:-1,DE: Spiegel Geschichte
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5170.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Spiegel TV Wissen HD"  group-title="Unsorted",DE: Spiegel TV Wissen HD
+#EXTINF:-1,DE: Spiegel TV Wissen HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8050.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sport 1  HD"  group-title="Unsorted",DE: Sport 1  HD
+#EXTINF:-1,DE: Sport 1  HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3065.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Sport 1 HD"  group-title="Unsorted",DE: Sport 1 HD
+#EXTINF:-1,DE: Sport 1 HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5442.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Super RTL"  group-title="Unsorted",DE: Super RTL
+#EXTINF:-1,DE: Super RTL
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5971.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: SWR HD"  group-title="Unsorted",DE: SWR HD
+#EXTINF:-1,DE: SWR HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3549.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: SyFy HD"  group-title="Unsorted",DE: SyFy HD
+#EXTINF:-1,DE: SyFy HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3100.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Tagesschau 24"  group-title="Unsorted",DE: Tagesschau 24
+#EXTINF:-1,DE: Tagesschau 24
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3554.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Tele Barn"  group-title="Unsorted",DE: Tele Barn
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1430.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: TLC HD"  group-title="Unsorted",DE: TLC HD
+#EXTINF:-1,DE: TLC HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3566.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: TNT Film"  group-title="Unsorted",DE: TNT Film
+#EXTINF:-1,DE: TNT Film
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4431.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: TNT Serie"  group-title="Unsorted",DE: TNT Serie
+#EXTINF:-1,DE: TNT Serie
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4430.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: TV Aktuelle"  group-title="Unsorted",DE: TV Aktuelle
+#EXTINF:-1,DE: TV Aktuelle
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3940.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: VOX"  group-title="Unsorted",DE: VOX
+#EXTINF:-1,DE: VOX
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3361.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: WDR HD"  group-title="Unsorted",DE: WDR HD
+#EXTINF:-1,DE: WDR HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4419.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: Welt der Wunder"  group-title="Unsorted",DE: Welt der Wunder
+#EXTINF:-1,DE: Welt der Wunder
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5178.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: ZDF HD"  group-title="Unsorted",DE: ZDF HD
+#EXTINF:-1,DE: ZDF HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2856.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: ZDF Info HD"  group-title="Unsorted",DE: ZDF Info HD
+#EXTINF:-1,DE: ZDF Info HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3222.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE: ZDF Neo HD"  group-title="Unsorted",DE: ZDF Neo HD
+#EXTINF:-1,DE: ZDF Neo HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3228.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_SKY_CINEMA_HD"  group-title="Unsorted",DE_SKY_CINEMA_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19577.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Sky_Cinema_ 1_HD"  group-title="Unsorted",DE_Sky_Cinema_ 1_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19579.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_sky_cinema_24"  group-title="Unsorted",GERMAN_sky_cinema_24
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/163.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_SKY_CINEMA_EMOTION_HD"  group-title="Unsorted",DE_SKY_CINEMA_EMOTION_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19578.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_SKY_CINEMA_HITS_HD"  group-title="Unsorted",DE_SKY_CINEMA_HITS_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19576.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Sky_Krimi_HD"  group-title="Unsorted",DE_Sky_Krimi_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19564.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_sky_action"  group-title="Unsorted",GERMAN_sky_action
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/164.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_ZDF_HD"  group-title="Unsorted",GERMAN_ZDF_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/441.ts
+#EXTINF:-1,DE: Heimatkanal
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/10247
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_VOX_HD"  group-title="Unsorted",GERMAN_VOX_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/442.ts
+#EXTINF:-1,DE: RTL Living
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/10250
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_TNT_serie"  group-title="Unsorted",GERMAN_TNT_serie
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/443.ts
+#EXTINF:-1,DE: Tele 5 HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/10243
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_Super_RTL"  group-title="Unsorted",GERMAN_Super_RTL
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/444.ts
+#EXTINF:-1,DE: ZDF HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/6003
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_SKY_COMEDY"  group-title="Unsorted",GERMAN_SKY_COMEDY
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/445.ts
+#EXTINF:-1,DE: Universal HD Germany
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5909
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="German_RTL_HD"  group-title="Unsorted",German_RTL_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/447.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5907
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_RTLintro"  group-title="Unsorted",GERMAN_RTLintro
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/448.ts
+#EXTINF:-1,DE: TNT Film
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5908
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_RTL2"  group-title="Unsorted",GERMAN_RTL2
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/449.ts
+#EXTINF:-1,DE: SyFy HD Deutschland
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5897
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_ORF_1"  group-title="Unsorted",GERMAN_ORF_1
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/451.ts
+#EXTINF:-1,DE: Sky Sport HD 1
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/6432
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_ORF_2"  group-title="Unsorted",GERMAN_ORF_2
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/450.ts
+#EXTINF:-1,DE: Sky Select 3 HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5915
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_Kika"  group-title="Unsorted",GERMAN_Kika
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/454.ts
+#EXTINF:-1,DE: SKY Select 4 HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5916
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_KABEL_1"  group-title="Unsorted",GERMAN_KABEL_1
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/455.ts
+#EXTINF:-1,DE: Sky Select 5 HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5919
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_FOX"  group-title="Unsorted",GERMAN_FOX
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/456.ts
+#EXTINF:-1,DE: Sky Hits HD Germany
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5896
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_13Street_HD"  group-title="Unsorted",GERMAN_13Street_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/458.ts
+#EXTINF:-1,DE: Disney HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9214
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_SRF_1_HD"  group-title="Unsorted",DE_SRF_1_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19563.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9227
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_SRF_2_HD"  group-title="Unsorted",DE_SRF_2_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19562.ts
+#EXTINF:-1,DE: Sky Krimi
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9216
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_TLC_HD"  group-title="Unsorted",DE_TLC_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19547.ts
+#EXTINF:-1,DE: Sky Sport HD 1 Germany
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9223
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_3sat_HD"  group-title="Unsorted",DE_3sat_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19584.ts
+#EXTINF:-1,DE: 3sat
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9518
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_ARD_1_HD"  group-title="Unsorted",DE_ARD_1_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19583.ts
+#EXTINF:-1,DE: ARTE
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9519
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_ARTE_HD"  group-title="Unsorted",DE_ARTE_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19582.ts
+#EXTINF:-1,DE: Sky_N24
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9515
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_AXN_HD"  group-title="Unsorted",DE_AXN_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19570.ts
+#EXTINF:-1,DE: ZDF info HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9517
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_DISCOVERY_HD"  group-title="Unsorted",DE_DISCOVERY_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19551.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5920
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Disney_Cinemagic_HD"  group-title="Unsorted",DE_Disney_Cinemagic_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19546.ts
+#EXTINF:-1,DE: RTL HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/6005
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Disney_Junior_HD"  group-title="Unsorted",DE_Disney_Junior_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19545.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/6006
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Disney_XD_HD"  group-title="Unsorted",DE_Disney_XD_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19544.ts
+#EXTINF:-1,DE: National Geographic HD Germany
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5902
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Dmax_HD"  group-title="Unsorted",DE_Dmax_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19569.ts
+#EXTINF:-1,DE: NatGeo Wild HD S.
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5903
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Eurosport_1_HD"  group-title="Unsorted",DE_Eurosport_1_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19561.ts
+#EXTINF:-1,DE: Kinowelt TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5906
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_History_HD"  group-title="Unsorted",DE_History_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19550.ts
+#EXTINF:-1,DE: Fox HD Germany
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5905
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_N24_HD"  group-title="Unsorted",DE_N24_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19542.ts
+#EXTINF:-1,DE: Cartoon Network Germany
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5926
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Nat_Geo_Wild_HD"  group-title="Unsorted",DE_Nat_Geo_Wild_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19549.ts
+#EXTINF:-1,DE: 13th Street HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/5910
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_NATIONAL_GEOGRAPHIC_HD"  group-title="Unsorted",DE_NATIONAL_GEOGRAPHIC_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19548.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Nickelodeon_HD"  group-title="Unsorted",DE_Nickelodeon_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19543.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Pro_7_MAXX"  group-title="Unsorted",DE_Pro_7_MAXX
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19558.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Romance_TV_HD"  group-title="Unsorted",DE_Romance_TV_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19568.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_RTL_Passion_HD"  group-title="Unsorted",DE_RTL_Passion_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19567.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Sat.1_HD"  group-title="Unsorted",DE_Sat.1_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19581.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Sixx_HD"  group-title="Unsorted",DE_Sixx_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19580.ts
+#EXTINF:-1,DE: ======== Germany SD/HD/FHD ========
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2141.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Sky_1_HD"  group-title="Unsorted",DE_Sky_1_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19566.ts
+#EXTINF:-1,DE: Das Erste SD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2140.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_SKY_ATLANTIC_HD"  group-title="Unsorted",DE_SKY_ATLANTIC_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19565.ts
+#EXTINF:-1,DE: Das Erste HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2139.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_Bundesliga"  group-title="Unsorted",GERMAN_Bundesliga
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/162.ts
+#EXTINF:-1,DE: ARD One HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2138.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_SKY_Bundesliga_1_HD"  group-title="Unsorted",DE_SKY_Bundesliga_1_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19557.ts
+#EXTINF:-1,DE: ZDF Info SD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2137.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_SKY_Bundesliga_2_HD"  group-title="Unsorted",DE_SKY_Bundesliga_2_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19556.ts
+#EXTINF:-1,DE: ZDF info HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2136.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_SKY_Bundesliga_3_HD"  group-title="Unsorted",DE_SKY_Bundesliga_3_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19555.ts
+#EXTINF:-1,DE: ZDF HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2135.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_SKY_Bundesliga_4_HD"  group-title="Unsorted",DE_SKY_Bundesliga_4_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19554.ts
+#EXTINF:-1,DE: ZDF FHD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2134.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_SKY_Bundesliga_5_HD"  group-title="Unsorted",DE_SKY_Bundesliga_5_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19553.ts
+#EXTINF:-1,DE: MDR HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2133.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_SKY_Bundesliga_6_HD"  group-title="Unsorted",DE_SKY_Bundesliga_6_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19552.ts
+#EXTINF:-1,DE: WDR HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2132.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Sky_Select_1_HD"  group-title="Unsorted",DE_Sky_Select_1_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19575.ts
+#EXTINF:-1,DE: 3Sat SD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2131.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Sky_Select_2_HD"  group-title="Unsorted",DE_Sky_Select_2_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19574.ts
+#EXTINF:-1,DE: 3Sat HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2130.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Sky_Select_3_HD"  group-title="Unsorted",DE_Sky_Select_3_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19573.ts
+#EXTINF:-1,DE: Arte HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2129.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Sky_Select_4_HD"  group-title="Unsorted",DE_Sky_Select_4_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19572.ts
+#EXTINF:-1,DE: NDR HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2128.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Sky_Select_5_HD"  group-title="Unsorted",DE_Sky_Select_5_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19571.ts
+#EXTINF:-1,DE: RTL HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2127.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Sky_Sport_Austria_HD"  group-title="Unsorted",DE_Sky_Sport_Austria_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19559.ts
+#EXTINF:-1,DE: RTL FHD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2126.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DE_Sport1_HD"  group-title="Unsorted",DE_Sport1_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19560.ts
+#EXTINF:-1,DE: RTL Plus
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2124.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_sky_sport1"  group-title="Unsorted",GERMAN_sky_sport1
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/160.ts
+#EXTINF:-1,DE: RTL II
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2123.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GERMAN_sky_sport_2"  group-title="Unsorted",GERMAN_sky_sport_2
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/161.ts
+#EXTINF:-1,DE: RTL II HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2122.ts
 
+#EXTINF:-1,DE: RTL Living HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2121.ts
+
+#EXTINF:-1,DE: RTL Passion
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2120.ts
+
+#EXTINF:-1,DE: RTL Crime
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2119.ts
+
+#EXTINF:-1,DE: NITRO HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2118.ts
+
+#EXTINF:-1,DE: VOX
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2117.ts
+
+#EXTINF:-1,DE: VOX  HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2116.ts
+
+#EXTINF:-1,DE: Pro 7
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2115.ts
+
+#EXTINF:-1,DE: Pro 7 HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2114.ts
+
+#EXTINF:-1,DE: Pro 7 Maxx
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2113.ts
+
+#EXTINF:-1,DE: Pro 7 Maxx HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2112.ts
+
+#EXTINF:-1,DE: Pro7 Fun HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2111.ts
+
+#EXTINF:-1,DE: Kabel 1
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2110.ts
+
+#EXTINF:-1,DE: Kabel 1  HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2109.ts
+
+#EXTINF:-1,DE: Kabel 1 Classic HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2108.ts
+
+#EXTINF:-1,DE: Kabel 1 Doku HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2107.ts
+
+#EXTINF:-1,DE: Sat 1
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2106.ts
+
+#EXTINF:-1,DE: Sat 1  HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2105.ts
+
+#EXTINF:-1,DE: Sat 1 Gold
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2104.ts
+
+#EXTINF:-1,DE: Sat 1 Emotions HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2103.ts
+
+#EXTINF:-1,DE: Blizz HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2100.ts
+
+#EXTINF:-1,DE: N-TV
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2099.ts
+
+#EXTINF:-1,DE: N-TV HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2098.ts
+
+#EXTINF:-1,DE: WELT
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2097.ts
+
+#EXTINF:-1,DE: WELT HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2096.ts
+
+#EXTINF:-1,DE: ORF 1 HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2095.ts
+
+#EXTINF:-1,DE: ORF 2 HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2094.ts
+
+#EXTINF:-1,DE: ORF 3 HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2093.ts
+
+#EXTINF:-1,DE: Tele 5 tv HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2092.ts
+
+#EXTINF:-1,DE: ATV HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2091.ts
+
+#EXTINF:-1,DE: Heimat Kanal HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2090.ts
+
+#EXTINF:-1,DE: Sonnenklar TV HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2089.ts
+
+#EXTINF:-1,DE: ======== ENTERTAINMENT ========
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2088.ts
+
+#EXTINF:-1,DE: E! HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2087.ts
+
+#EXTINF:-1,DE: Sky 1
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2086.ts
+
+#EXTINF:-1,DE: Sky 1 HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2085.ts
+
+#EXTINF:-1,DE: Sky Arts HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2084.ts
+
+#EXTINF:-1,DE: Zee one HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2083.ts
+
+#EXTINF:-1,DE: ======== SKY CINEMA SD (langsame Geschwindigkeit) ========
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2082.ts
+
+#EXTINF:-1,DE: Sky Cinema SD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2081.ts
+
+#EXTINF:-1,DE: Sky Cinema  1 SD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2080.ts
+
+#EXTINF:-1,DE: Sky Cinema  24 SD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2079.ts
+
+#EXTINF:-1,DE: Sky Cinema Hits SD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2078.ts
+
+#EXTINF:-1,DE: Sky Cinema Family SD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2077.ts
+
+#EXTINF:-1,DE: Sky Cinema Comedy SD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2076.ts
+
+#EXTINF:-1,DE: Sky Cinema Action SD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2075.ts
+
+#EXTINF:-1,DE: Sky Cinema Emotion SD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2074.ts
+
+#EXTINF:-1,DE: ======== SKY CINEMA HD (normale Geschwindigkeit) ========
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2073.ts
+
+#EXTINF:-1,DE: Sky Cinema HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2072.ts
+
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2070.ts
+
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2069.ts
+
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2068.ts
+
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2067.ts
+
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2066.ts
+
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2065.ts
+
+#EXTINF:-1,DE: ======== SKY CINEMA FHD (schnelle Geschwindigkeit) ========
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2064.ts
+
+#EXTINF:-1,DE: Sky Cinema FHD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2063.ts
+
+#EXTINF:-1,DE: Sky Cinema  24 FHD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2061.ts
+
+#EXTINF:-1,DE: Sky Cinema Hits FHD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2060.ts
+
+#EXTINF:-1,DE: Sky Cinema Family FHD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2059.ts
+
+#EXTINF:-1,DE: Sky Cinema Emotion FHD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2057.ts
+
+#EXTINF:-1,DE: Sky Cinema Comedy FHD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2056.ts
+
+#EXTINF:-1,DE: Sky Cinema WESTERN
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2055.ts
+
+#EXTINF:-1,DE: Sky Atlantic
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2054.ts
+
+#EXTINF:-1,DE: Sky Atlantic HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2053.ts
+
+#EXTINF:-1,DE: Sky Krimi
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2051.ts
+
+#EXTINF:-1,DE: ======== FILME ========
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2050.ts
+
+#EXTINF:-1,DE: 13th Street
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2049.ts
+
+#EXTINF:-1,DE: 13th Street HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2048.ts
+
+#EXTINF:-1,DE: TNT Film HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2047.ts
+
+#EXTINF:-1,DE: TNT Serie HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2046.ts
+
+#EXTINF:-1,DE: TNT Comedy HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2045.ts
+
+#EXTINF:-1,DE: AXN
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2044.ts
+
+#EXTINF:-1,DE: AXN HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2043.ts
+
+#EXTINF:-1,DE: TLC HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2042.ts
+
+#EXTINF:-1,DE: FOX
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2041.ts
+
+#EXTINF:-1,DE: FOX HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2040.ts
+
+#EXTINF:-1,DE: SYFY
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2039.ts
+
+#EXTINF:-1,DE: Romance TV HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2035.ts
+
+#EXTINF:-1,DE: Kinowelt TV HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2034.ts
+
+#EXTINF:-1,DE: Film Club 1 HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2033.ts
+
+#EXTINF:-1,DE: Film Club 2 HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2032.ts
+
+#EXTINF:-1,DE: Film Club 3 HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2031.ts
+
+#EXTINF:-1,DE: Film Club 4 HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2030.ts
+
+#EXTINF:-1,DE: Film Club 5 HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2029.ts
+
+#EXTINF:-1,DE: ======== KINDER ========
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2028.ts
+
+#EXTINF:-1,DE: Super RTL HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2027.ts
+
+#EXTINF:-1,DE: Toggo Plus
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2026.ts
+
+#EXTINF:-1,DE: KIKA HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2025.ts
+
+#EXTINF:-1,DE: Disney Channel HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2024.ts
+
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2023.ts
+
+#EXTINF:-1,DE: Disney Junior HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2022.ts
+
+#EXTINF:-1,DE: Disney XD HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2021.ts
+
+#EXTINF:-1,DE: Junior HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2020.ts
+
+#EXTINF:-1,DE: Cartoon Network HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2019.ts
+
+#EXTINF:-1,DE: Boomerang HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2018.ts
+
+#EXTINF:-1,DE: Nickelodeon Schweiz HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2017.ts
+
+#EXTINF:-1,DE: Nickelodeon HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2016.ts
+
+#EXTINF:-1,DE: Nick JR HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2014.ts
+
+#EXTINF:-1,DE: ======== MUSIC ========
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2012.ts
+
+#EXTINF:-1,DE: MTV Germany HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2011.ts
+
+#EXTINF:-1,DE: Deluxe Music HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2010.ts
+
+#EXTINF:-1,DE: KroneHit TV HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2009.ts
+
+#EXTINF:-1,DE: XITE HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2007.ts
+
+#EXTINF:-1,DE: VIVA/COMEDY CENTRAL
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2005.ts
+
+#EXTINF:-1,DE: GO TV
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2004.ts
+
+#EXTINF:-1,DE: N24 Doku
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2002.ts
+
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/2000.ts
+
+#EXTINF:-1,De: Spiegel Geschichte HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1999.ts
+
+#EXTINF:-1,DE: National Geographic
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1998.ts
+
+#EXTINF:-1,DE: National Geographic HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1997.ts
+
+#EXTINF:-1,DE: Welt Der Wunder
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1996.ts
+
+#EXTINF:-1,DE: Nat Geo Wild
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1995.ts
+
+#EXTINF:-1,DE: Nat Geo Wild  HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1994.ts
+
+#EXTINF:-1,DE: Discovery Channel
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1992.ts
+
+#EXTINF:-1,DE: Discovery Channel HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1991.ts
+
+#EXTINF:-1,DE: History Channel
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1990.ts
+
+#EXTINF:-1,DE: History Channel HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1989.ts
+
+#EXTINF:-1,DE: Animal Planet
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1988.ts
+
+#EXTINF:-1,DE: Animal Planet HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1987.ts
+
+#EXTINF:-1,DE: Sky DMAX
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1986.ts
+
+#EXTINF:-1,DE: Anixe HD Series
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1984.ts
+
+#EXTINF:-1,DE: Anixe HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1983.ts
+
+#EXTINF:-1,DE: Phoenix HD
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1981.ts
+
+#EXTINF:-1,DE: Sky Select Vitrine
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1979.ts
+
+#EXTINF:-1,DE: Sky Select Live 1 (Star Wars-Episode VIII-Die letzten Jedi)
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1978.ts
+
+#EXTINF:-1,DE: Sky Select Live 2 (The Commuter)
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1977.ts
+
+#EXTINF:-1,DE: Sky Select Live 3 (24 Hours to Live)
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1976.ts
+
+#EXTINF:-1,DE: Sky Select Live 4 (The Greatest Showman)
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1975.ts
+
+#EXTINF:-1,DE: Sky Select Live 5 (Insidious The Last Key)
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1974.ts
+
+#EXTINF:-1,DE: Sky Select Live 6 (Burg Schreckenstein 2)
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1973.ts
+
+#EXTINF:-1,DE: Sky Select Live 7 (Jumanji-Willkommen im Dschungel)
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1972.ts
+
+#EXTINF:-1,DE: Sky Select Live 8 (Ferdinand)
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1971.ts
+
+#EXTINF:-1,DE: Sky Select Live 9 (Pitch Perfect 3)
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1970.ts
+
+#EXTINF:-1,DE: Sky Select Live 10 (Die dunkelste Stunde)
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1969.ts
+
+#EXTINF:-1,DE: Sky Select Live 11 (Killer's Bodyguard)
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1968.ts
+
+#EXTINF:-1,DE: Sky Select Live 12 (Suburbicon–Willkommen in der Nachbarschaft)
+http://24.thgss.com:8000/live/76931540731320/76931540731320/1967.ts
